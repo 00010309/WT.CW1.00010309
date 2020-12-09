@@ -18,4 +18,5 @@ tabs8.innerHTML = '75';
 const tabs9 = document.querySelector('.tabs9');
 tabs9.innerHTML = '25';
 const tabs10 = document.querySelector('.tabs10');
-tabs10.innerHTML = '247';
+tabs10.innerHTML = '247';/* 
+this code creates table, and inserts certain figures respectively */
